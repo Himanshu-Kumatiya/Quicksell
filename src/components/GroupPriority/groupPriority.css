@@ -1,0 +1,10 @@
+.list-container{
+    width: 360px;
+    margin-left: 2.5rem;
+}
+.list-container:last-child{
+    margin-right: 2.5rem;
+}
+.list-card-items{
+    width: 100%;
+}
